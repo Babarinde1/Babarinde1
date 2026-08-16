@@ -162,9 +162,6 @@ CNN built in TensorFlow reaching 91% validation accuracy on crop disease image c
 ![github-snake](https://raw.githubusercontent.com/Babarinde1/Babarinde1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> ⚠️ Activate this by adding the [platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — say the word and I'll give you the exact workflow file.
-
 ---
 
 ### `> ESTABLISH_CONNECTION --protocols`
