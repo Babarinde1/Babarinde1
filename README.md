@@ -23,7 +23,7 @@
 │
 ├─ MISSION   :
 │   ├── 🤖 Self-Taught AI / Machine Learning Research & Development
-│   ├── 🧑‍🏫 Teaching Computer Science (NYSC — Head of Corpers)
+│   ├── 🧑‍🏫 Teaching Computer Science
 │   ├── 🌐 Frontend Web Development
 │   └── 🗣️ Low-Resource African NLP (Yorùbá language AI)
 │
