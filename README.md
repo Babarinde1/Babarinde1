@@ -16,7 +16,7 @@
 
 ```
 ┌──[Babarinde1@nysc]─[~]
-├─ NAME      : Johnson Pedias Babarinde
+├─ NAME      : Babarinde Johnson Omotayo
 ├─ CODENAME  : Babarinde1
 ├─ LOCATION  : Nigeria [NG] 🇳🇬
 ├─ CLASS     : AI/ML Engineer · Frontend Developer · Computer Educator
