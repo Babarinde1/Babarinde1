@@ -149,7 +149,7 @@ CNN built in TensorFlow reaching 91% validation accuracy on crop disease image c
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Babarinde1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Babarinde1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4)
 
 </div>
 
