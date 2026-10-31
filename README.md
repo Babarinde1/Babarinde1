@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=JOHNSON%20BABARINDE&fontSize=64&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&descAlignY=58&desc=%3E%20AI%2FML%20Engineer%20%7C%20Frontend_Dev%20%7C%20Educator&descSize=17&descColor=39FF14)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=BABARINDE%20JOHNSON&fontSize=64&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&descAlignY=58&desc=%3E%20AI%2FML%20Engineer%20%7C%20Frontend_Dev%20%7C%20Educator&descSize=17&descColor=39FF14)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=800&lines=%3E+Initializing+Johnson.exe...;%3E+Loading+AI+%2F+ML+Modules...;%3E+Fine-Tuning+LLaMA+%2B+Qwen+for+Yor%C3%B9b%C3%A1...;%3E+Building+GPT-2+From+Scratch...;%3E+Teaching+Python+to+the+Next+Generation...;%3E+Ready+to+Ship.+%5BOK%5D)](https://git.io/typing-svg)
 
